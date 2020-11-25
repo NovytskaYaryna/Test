@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\MyCalcLib\MyCalcLib\bin\Debug\MyCalcLib.dll
+C:\Users\HP\source\repos\MyCalcLib\MyCalcLib\bin\Debug\MyCalcLib.pdb
+C:\Users\HP\source\repos\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.dll
+C:\Users\HP\source\repos\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.pdb
